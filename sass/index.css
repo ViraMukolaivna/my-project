@@ -1,1 +1,53 @@
-/*# sourceMappingURL=index.css.map */
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+
+.container {
+  width: 1920px;
+  padding-left: 138px;
+  padding-right: 138px;
+}
+
+:root {
+  --white-accent-color: #FFFFFF;
+  --black-accent-color: #000000;
+  --dark-accent-color: #4D4D4D;
+  --light-accent: #B0B0B0;
+  --primary-background: #EBF0E4;
+  --secondary-background: #5E6600;
+  --footer-background: #233000;
+  --button-color: #9CAA00;
+}/*# sourceMappingURL=index.css.map */
