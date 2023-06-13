@@ -1,8 +1,10 @@
 // base
 @import './base/basestyles.scss';
+@import './base/container.scss';
 
 // components
 // @import './component/';
+@import './component/header.scss';
 
 // utils
 @import './utils/modern-normalized.scss';

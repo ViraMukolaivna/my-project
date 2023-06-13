@@ -43,9 +43,9 @@
 </symbol>
 
 <symbol id="icon-NaviOpen" viewBox="0 0 42 32">
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.9014" d="M10.817 9.465h20.732"></path>
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.9014" d="M10.817 15.775h20.732"></path>
-<path fill="none" stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.9014" d="M10.817 22.084h20.732"></path>
+<path  stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.9014" d="M10.817 9.465h20.732"></path>
+<path  stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.9014" d="M10.817 15.775h20.732"></path>
+<path  stroke="#fff" style="stroke: var(--color1, #fff)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.9014" d="M10.817 22.084h20.732"></path>
 </symbol>
 </defs>
 </svg>
